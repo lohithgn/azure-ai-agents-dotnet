@@ -54,23 +54,23 @@ After going through the QuickStart steps (and optionally the AI Search and Bing 
 ## Prompts Demo Videos:
 
 ### Prompt 1 Demo
-<video src="./images/prompt1.mp4" controls></video>
+<img src="./images/prompt1.gif">
 
 ### Prompt 2 Demo
-<video src="./images/prompt2.mp4" controls></video>
+<img src="./images/prompt2.gif">
 
 
 ### Prompt 3 Demo
-<video src="./images/prompt3.mp4" controls></video>
+<img src="./images/prompt3.gif">
 
 
 ### Prompt 4 Demo
-<video src="./images/prompt4.mp4" controls></video>
+<img src="./images/prompt4.gif">
 
 
 ### Prompt 5 Demo
-<video src="./images/prompt5.mp4" controls></video>
+<img src="./images/prompt5.gif">
 
 
 ### Prompt 7 Demo
-<video src="./images/prompt7.mp4" controls></video>
+<img src="./images/prompt7.gif">
